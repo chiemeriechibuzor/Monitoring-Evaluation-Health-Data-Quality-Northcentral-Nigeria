@@ -5,6 +5,7 @@ A worked example of the routine data review behind an SMS immunization reminder 
 > **All data in this repository is synthetic.** No real children, caregivers, health workers or facilities are represented. Facility names are invented.
 
 ## Live workbook
+Link to kobotoolbox form ( https://ee.kobotoolbox.org/x/ZC3KxCti) explored skip logic and validation rules
 
 [Open the Google Sheet (view only)](https://docs.google.com/spreadsheets/d/1LHO2U39Q_LMexS8CUNj8SaTRUExOy2CgmXctfBnO0cI/edit?usp=sharing)
 
