@@ -54,6 +54,5 @@ It creates a tab with one row per health worker: counts by grade, usable rate, m
 Google Sheets analysis and reporting, data quality review and grading, feedback to field staff, digital data collection design, training material, process improvement and automation with Apps Script.
 
 ## Author
+Chiemerie Chibuzor, Business Process Analyst/Data Analyst, Abuja, Nigeria
 
-Anderson, Business Process Analyst, Abuja, Nigeria
-[LinkedIn](ADD-LINK) | [Email](mailto:ADD-EMAIL)
