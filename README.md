@@ -6,7 +6,7 @@ A worked example of the routine data review behind an SMS immunization reminder 
 
 ## Live workbook
 
-[Open the Google Sheet (view only)](ADD-YOUR-SHEET-LINK-HERE)
+[Open the Google Sheet (view only)](https://docs.google.com/spreadsheets/d/1LHO2U39Q_LMexS8CUNj8SaTRUExOy2CgmXctfBnO0cI/edit?usp=sharing)
 
 | Tab | What it does |
 |---|---|
